@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/git/git/master/Documentation/git-logo.png" width="180">
-</p>
 
-<h1 align="center">🚀 Git Lab Test – Broadridge Training</h1>
+<h1 align="center"># 🚀 Git Lab Test – Broadridge Training</h1>
 
 <p align="center">
   Practical implementation of Git commands and workflows.
@@ -10,7 +7,6 @@
 
 
 
-# 🚀 Git Lab Test – Broadridge Training
 
 > A comprehensive Git hands-on lab completed as part of the **Broadridge Training Program**.
 
